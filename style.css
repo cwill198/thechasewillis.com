@@ -1,0 +1,173 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(58,58,58,1.00) 62.18%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(58,58,58,1.00) 62.18%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(58,58,58,1.00) 62.18%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(58,58,58,1.00) 62.18%,rgba(255,255,255,1.00) 100%);
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(134,134,134,1.00) 50.78%,rgba(53,53,53,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(134,134,134,1.00) 50.78%,rgba(53,53,53,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(134,134,134,1.00) 50.78%,rgba(53,53,53,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(134,134,134,1.00) 50.78%,rgba(53,53,53,1.00) 100%);
+    color: #FFFFFF;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFFFFF;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+#porttitle {
+    background-color: #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(62,62,62,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(62,62,62,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(62,62,62,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(62,62,62,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    color: #FFFFFF;
+    padding-left: 607px;
+    margin-left: 0px;
+    margin-top: 7px;
+    border-radius: 24px;
+}
+.container-fluid .container #aboutTitle {
+    color: #FFFFFF;
+}
+.container-fluid .container #dash {
+    color: #FFFFFF;
+}
+.container-fluid .container #desc {
+    color: #FFFFFF;
+}
+.container-fluid .container img {
+    margin-left: 370px;
+}
+.container-fluid .container #dash {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+.container-fluid .container #desc {
+    border: 10px double #000000;
+}
+.container-fluid .dash2 {
+    background-color: #000000;
+}
+.container-fluid .container {
+}
+topbutton {
+    margin-left: 0px;
+    border: 6px dashed #000000;
+    border-top-left-radius: 6px;
+}
+body ul {
+    border-width: 5px;
+}
+
+
+
+
+
+
+.container-fluid #dash2 {
+    background-color: #1F1F1F;
+    border-width: 0px;
+    border-color: #000000;
+}
+.featureList {
+    border: 8px ridge #565656;
+    border-top-right-radius: 0px;
+    right: 5px;
+    padding-right: 0px;
+    margin-right: 1286px;
+}
+.container-fluid .container #desc {
+}
+.container-fluid .container #desc {
+    color: #000000;
+}
+.container-fluid .container img {
+    margin-left: 41px;
+}
+.container-fluid .container h2 {
+    color: #FFFFFF;
+}
+.container-fluid .container #1stP {
+    color: #FFFFFF;
+}
+.container-fluid .container #desc {
+    color: #FFFFFF;
+}
+
+.container {
+  width:100%;
+  margin:0 auto;
+  position:relative;
+}
+
+#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
+
+#contact {
+  background:#F9F9F9;
+  padding:25px;
+  margin:50px 0;
+}
+
+#contact h3 {
+  color: #F96;
+  display: block;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+#contact h4 {
+  margin:5px 0 15px;
+  display:block;
+  font-size:13px;
+}
+
+fieldset {
+  border: medium none !important;
+  margin: 0 0 10px;
+  min-width: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+#contact textarea {
+  height:100px;
+  max-width:100%;
+  resize:none;
+}
+
+#contact button[type="submit"] {
+  cursor:pointer;
+  width:20%;
+  border:none;
+  background:#0CF;
+  color:#FFF;
+  margin:0 0 5px;
+  padding:10px;
+  font-size:15px;
+}
+
+#contact button[type="submit"]:hover {
+  background:#09C;
+  -webkit-transition:background 0.3s ease-in-out;
+  -moz-transition:background 0.3s ease-in-out;
+  transition:background-color 0.3s ease-in-out;
+}
+
+#contact button[type="submit"]:active { box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.5); }
+
+
+
+
+
+
+
